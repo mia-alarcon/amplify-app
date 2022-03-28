@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "RestaurantAPI",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/mia/amplify-app/amplify/backend/api/RestaurantAPI/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-04-04T21:32:04.602Z",
+      "keyDescription": "demo"
+    }
+  }
+}
